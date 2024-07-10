@@ -13,7 +13,8 @@ gantt
     NoRisk & Compliance            :active,, 2019-06,2019-10
     Wide Digital S/A               :active,, 2019-10,2020-09
     Ancar Ivanhoe Shopping Centers :active,, 2020-09,2024-04
-    #OpenToWork                    :, 2024-04, 2025-09
+    #OpenToWork :, 2024-04,2024-06
+    Act Digital                    :active,, 2024-07, 2025-09
 
   section Carreira Acadêmica
     UNESA      :done,, 2019-02,2023-12

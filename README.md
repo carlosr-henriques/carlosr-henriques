@@ -15,11 +15,11 @@ gantt
     Ancar Ivanhoe Shopping Centers :active,, 2020-09,2024-04
     #OpenToWork :, 2024-04,2024-06
     Act Digital                    :active,, 2024-07, 2024-08
-    Stellantis                     :active,, 2024-08, 2025-12
+    Stellantis                     :active,, 2024-08, 2025-04
+    Semantix                       :active,, 2025-04, 2026-12
 
   section Carreira Acadêmica
     UNESA      :done,, 2019-02,2023-12
-    PUC Minas  :active,, 2024-01,2025-09
 ```
 Skills: Python / SQL / Estatística / Análise de Dados / Ciências de Dados / Machine Learning
 

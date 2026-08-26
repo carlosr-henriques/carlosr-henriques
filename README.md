@@ -7,12 +7,12 @@ gantt
   title Minha trajetória
 
   section Carreira
-    DETRAN-RJ                      :, a1, 2016-11, 2018-10
-    NoRisk & Compliance            :,, 2019-06,2019-10
-    Wide Digital S/A               :,, 2019-10,2020-09
-    Ancar Ivanhoe Shopping Centers :,, 2020-09,2024-04
-    Stellantis                     :,, 2024-08, 2025-04
-    Semantix                       :,, 2025-04, 2025-11
+    DETRAN-RJ                      2016-11, 2018-10
+    NoRisk & Compliance            2019-06,2019-10
+    Wide Digital S/A               2019-10,2020-09
+    Ancar Ivanhoe Shopping Centers 2020-09,2024-04
+    Stellantis                     2024-08, 2025-04
+    Semantix                       2025-04, 2025-11
     Programmers                    :active,, 2025-11, 2026-12
 
   section Carreira Acadêmica
